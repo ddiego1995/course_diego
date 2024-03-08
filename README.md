@@ -1,2 +1,1 @@
-# course_diego
-Este es un repositorio del modulo2 del prepcourse de henry
+Este proyecto de prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
